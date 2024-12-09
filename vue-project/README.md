@@ -39,17 +39,17 @@ Bu proje, bir şehir arama ve hava durumu bilgisi alma uygulamasıdır. Proje, V
 
 Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
-1. **Depoyu klonlayın:**
+
+1. Proje klasörüne gidin:
    ```bash
-   git clone https://github.com/kullaniciadi/weather-app.git
-   cd weather-app
+   git clone https://github.com/Umutunal0/Weather-App
+   cd Weather_Applic/vue-project
 
 2. **Project Setup
 
 npm install
 
 3. Compile and Hot-Reload for Development
-
 
 npm run dev
 
